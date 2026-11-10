@@ -39,14 +39,6 @@ Used WHOIS, DNSRecon, NSLookup, WhatWeb, WAFW00F, and cURL to examine publicly a
 - WAFW00F reported ModSecurity (SpiderLabs).
 - The cURL response showed HTTP/2 `200` and Apache. Cookie values are intentionally omitted.
 
-## Screenshots
-
-Add the practical screenshots to:
-
-- `W2-PM1-Domain-Footprinting/screenshots/`
-- `W2-PM5-Zenmap-Network-Scanning/screenshots/`
-
-Do not upload the original cURL screenshot unless its cookie value has been redacted.
 
 ## Scope Note
 
